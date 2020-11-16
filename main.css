@@ -1,0 +1,36 @@
+body input, p, h1 {
+    margin: auto;
+}
+
+body h1, p {
+    text-align: center;
+}
+
+body h1{
+    font-size: 50px;
+}
+
+body p {
+    margin-bottom: 25px;
+}
+
+body {
+    margin-top: 45px;
+}
+
+body input {
+    margin-bottom: 30px;
+}
+
+p.solution {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(192, 93, 87);
+}
+
+*::selection {
+    background-color: #ffa7a1;
+    color: white;
+}
